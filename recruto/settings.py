@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-oem=e&tat3qoehm@s!926zrb4o8%n*)2n&j970nj@7p@qvat5&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-recruto.onrender.com']
 
 
 # Application definition
